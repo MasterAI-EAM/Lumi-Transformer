@@ -31,6 +31,35 @@ evaluate.py: contains code for evaluating the model on a test set
 
 The solar-transformer model achieves state-of-the-art performance on the EL image dataset, with an accuracy of 91.7% on a classfication test. (defective or functional)
 
+ELPV-Monocystalline  
+| Model  | Recall  | Precision | F1-Score  | Reference |
+|---|---|---|---|---|
+| Solar-T  |   |   |   |   |
+| VGG-19  |   |   |   |   |
+| ResNet-50  |   |   |   |   |
+
+ELPV-Polycystalline  
+| Model  | Recall  | Precision | F1-Score  | Reference |
+|---|---|---|---|---|
+| Solar-T  |   |   |   |   |
+| VGG-19  |   |   |   |   |
+| ResNet-50  |   |   |   |   |
+
+ELPV-Overall  
+| Model  | Recall  | Precision | F1-Score  | Reference |
+|---|---|---|---|---|
+| Solar-T  |   |   |   |   |
+| VGG-19  |   |   |   |   |
+| ResNet-50  |   |   |   |   |
+
+
+ELPV-Transfer Learning (Monocrystalline to Polycrystalline)
+| Model  | Recall  | Precision | F1-Score  | Reference |
+|---|---|---|---|---|
+| Solar-T  |   |   |   |   |
+| VGG-19  |   |   |   |   |
+| ResNet-50  |   |   |   |   |
+
 ### Acknowledgments
 
 This work was supported by the Univeristy of New South Wales. We would also like to thank the support of GreenDyanmics Pty. Ltd.
