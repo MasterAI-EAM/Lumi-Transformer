@@ -8,7 +8,9 @@ EL imaging is a technique used to study solar cells. It involves capturing image
 The solar-transformer model is designed to process EL images and predict the efficiency of the solar cell. It is based on the transformer architecture, which has been shown to be effective for processing sequential data such as natural language text.
 
 <img src="figures/CNN ViT ST.png" width="1200">
-Operation of CNN, ViT and Swin-Tranformer. (CNN: Convolutional Neural Network, like VGG, Resnet; ViT: Visual Transformrer).      
+Operation of CNN, ViT and Swin-Tranformer. (CNN: Convolutional Neural Network, like VGG, Resnet; ViT: Visual Transformrer).
+<img src="figures/model.png" width="1200">
+Overall framework of swin-transformer 
 
 ## Dependencies
 
