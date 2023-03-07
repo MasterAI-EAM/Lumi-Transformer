@@ -57,11 +57,11 @@ ELPV-Overall
 
 
 ELPV-Transfer Learning (Monocrystalline to Polycrystalline)
-| Model  | Recall  | Precision | F1-Score  | Reference |
-|---|---|---|---|---|
-| Solar-T  |   |   |   |   |
-| VGG-19  |   |   |   |   |
-| ResNet-50  |   |   |   |   |
+| Model | F1-Score  | Reference |
+|---|---|---|
+| Solar-T  | 0.8202  |  |
+| VGG-19  |   |   |
+| ResNet-50  | 0.6103  |   |
 
 ## Acknowledgments
 
